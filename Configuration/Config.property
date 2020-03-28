@@ -1,0 +1,5 @@
+chromeDriver=C:\\Users\\srinivasarao\\eclipse-workspace\\cts-selenium-supriya\\src\\test\\resources\\binaries\\chromedriver.exe
+firefoxDriver=C:\Users\srinivasarao\eclipse-workspace\cts-selenium-supriya\src\test\resources\binaries\geckodriver.exe
+URL=http://demosite.center/wordpress/wp-login.php
+
+Excelpath=
